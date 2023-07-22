@@ -24,3 +24,12 @@ id | name
 1 | XNXX - LT
 2 | dogcry - Hallowed
 3 | Oni - Hallowed
+
+### from: phonk - ara ara
+id | name
+-|-
+1 | MUPP, Sadfriendd - vendetta!
+2 | INTERWORLD - METAMORPHOSIS
+3 | DVRST - Close Eyes
+4 | NOCTRIS - TURBO INJECTION
+5 | Cyrex & 7vvch - Tempo
