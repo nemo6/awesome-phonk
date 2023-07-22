@@ -1,5 +1,3 @@
-# AWESOME PHONK
-
 id | name
 -|-
 1 | PRAXDS RXDS
@@ -18,7 +16,6 @@ id | name
 14 | Snoblack, Phonkomorph & Besoshka - Lacrimosa ( tag : eglise,church )
 15 | THIRST - THIS IS HOW WE DO IT
 
-# THE BEST PHONK SONG MIX 2023
 ## THE BEST PHONK SONG MIX 2023
 id | name
 -|-
@@ -34,3 +31,10 @@ id | name
 3 | DVRST - Close Eyes
 4 | NOCTRIS - TURBO INJECTION
 5 | Cyrex & 7vvch - Tempo
+
+## from: Phonk Music 2023 Sigma Phonk 2023
+id | name
+-|-
+1 | Alban Chela _ SCRIPTZ - Violent Memphis
+2 | Vinsmoker _ Marin Hoxha - Bang Bang
+3 | SILENCE - 5admin
