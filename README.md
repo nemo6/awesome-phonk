@@ -1,4 +1,4 @@
-# awesome-phonk
+# AWESOME PHONK
 
 id | name
 -|-
