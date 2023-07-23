@@ -86,3 +86,8 @@ id | name
 3 | nightcity. - NEED 4 SPEED
 4 | Lucha - MAKE IT WORK
 5 | R3YAN _ P3ONK - Giga Theme (Cover)
+
+## NOT IN SPOTIFY
+id | name
+-|-
+1 | YaaRaGo - Blur
