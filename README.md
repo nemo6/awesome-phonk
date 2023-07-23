@@ -91,3 +91,7 @@ id | name
 id | name
 -|-
 1 | YaaRaGo - Blur
+2 | XNXX - LT
+3 | dogcry - Hallowed
+4 | Oni - Hallowed
+5 | Phxnkmane - Bigfoot
