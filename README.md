@@ -13,7 +13,7 @@ id | name
 11 | INTERWORLD - METAMORPHOSIS 2
 12 | KORDHELL - MURDER PLOT
 13 | dnvn, PiNKII - Naughty
-14 | Snoblack, Phonkomorph & Besoshka - Lacrimosa ( tag : eglise,church )
+14 | Lacrimosa - Snoblack, Phonkomorph & Besoshka ( tag : eglise,church )
 15 | THIRST - THIS IS HOW WE DO IT
 16 | YaaRaGo - Blur
 17 | Grioten x Kyju x scrot! - $neaky Snitch
@@ -30,7 +30,7 @@ id | channel
 03 | CYPARISS - EMPTY DREAMS (ft. Kingpin Skinny Pimp) [duplicate]
 04 | FORGOTTENAGE - YOUR SMILE
 05 | DVRST - Close Eyes
-06 | Lacrimosa - Snoblack, Phonkomorph _ Besoshka - Lacrimosa(Magic Phonk Release) [duplicate]
+06 | Lacrimosa - Snoblack, Phonkomorph _ Besoshka (Magic Phonk Release) [duplicate]
 07 | Whispersinyahead - FIRE (Magic Phonk Release)
 08 | Scriptz - NIGHTFALL [duplicate]
 09 | GENJI JAPAN - Jaegershu
