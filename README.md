@@ -21,6 +21,31 @@ id | name
 19 | Sensi Sye - Enchanted
 20 | KSLV - Disaster
 
+## PLAYLIST YOUTUBE : /phonk/
+
+id | channel
+-|-
+01 | KXLLYXU, LXVIATHXN - MEMORIES [duplicate]
+02 | DVRST - YOUR NAME [duplicate]
+03 | CYPARISS - EMPTY DREAMS (ft. Kingpin Skinny Pimp) [duplicate]
+04 | FORGOTTENAGE - YOUR SMILE
+05 | DVRST - Close Eyes
+06 | Lacrimosa - Snoblack, Phonkomorph _ Besoshka - Lacrimosa(Magic Phonk Release) [duplicate]
+07 | Whispersinyahead - FIRE (Magic Phonk Release)
+08 | Scriptz - NIGHTFALL [duplicate]
+09 | GENJI JAPAN - Jaegershu
+10 | Hensonn - Flare [Extended]
+11 | Hensonn - Sahara | 1 HOUR | 🥀
+12 | KEAN DYSSO - UWU
+13 | g3ox_em - GigaChad Theme (Phonk House Version) ( from: Top 20 Phonk Songs - Best of Phonk ) [duplicate]
+14 | Isolate.exe - Crystals
+15 | VITAMJN - DISORDER (PROD. NM$)
+16 | GREEN ORXNGE x Send 1 - S.X.N.D. N.X.D.E.S.
+17 | maksy. - Str boyz UFA (Remix)
+18 | CHMCL SØUP - DARKSIDE
+19 | Glichery - Sea Of Problems
+20 | 1nonly - Step Back! ft. SXMPRA (Official Lyric Video)
+
 id | channel
 -|-
 1  | DVRST
