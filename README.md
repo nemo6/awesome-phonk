@@ -9,15 +9,15 @@ id | name | from
 05 | FORGOTTENAGE x SOLIZY - "YOUR SMILE"
 06 | DVRST - Close Eyes
 07 | Dxrk - BONES (Official Audio)                                     |
-08 | Snoblack, Phonkomorph _ Besoshka - Lacrimosa(Magic Phonk Release) | Lacrimosa - Snoblack, Phonkomorph & Besoshka ( tag : eglise,church )
-09 | Hensonn - Flare [Extended]                                        | from: phonk songs I actually like - tiktok playlist
+08 | Snoblack, Phonkomorph _ Besoshka - Lacrimosa | Lacrimosa - Snoblack, Phonkomorph & Besoshka | tag : eglise,church
+09 | Hensonn - Flare                                                   | from: phonk songs I actually like - tiktok playlist
 10 | Hensonn - Sahara | 1 HOUR                                         | from: Phonk Music 2023 Sigma Phonk 2023
-11 | Whispersinyahead - FIRE (Magic Phonk Release)
+11 | Whispersinyahead - FIRE
 12 | Scriptz - NIGHTFALL
 13 | GENJI JAPAN - Jaegershu
 14 | KEAN DYSSO - UWU
-15 | g3ox_em - GigaChad Theme (Phonk House Version)                    | from: Top 20 Phonk Songs - Best of Phonk
-16 | 5admin - silence (extended)
+15 | g3ox_em - GigaChad Theme                                          | from: Top 20 Phonk Songs - Best of Phonk
+16 | 5admin - silence
 17 | V21 - Escape
 18 | Sadfriendd x Yury x 5admin - Swerve (revolt)
 19 | Nitro - PHONK PLAYA
@@ -25,7 +25,7 @@ id | name | from
 21 | NOCTRIS - Turbo Injection
 22 | Isolate exe - Crystals
 23 | FORGOTTENAGE - SHOOTERS
-24 | Lucha - CHAOTIC (Phonk / фонк)
+24 | Lucha - CHAOTIC
 25 | LT - Paradise
 26 | skidz - massacre
 27 | VITAMJN - DISORDER (PROD. NM$)
@@ -33,64 +33,68 @@ id | name | from
 29 | maksy. - Str boyz UFA (Remix)
 30 | GREEN ORXNGE x Send 1 - S.X.N.D. N.X.D.E.S.
 31 | CHMCL SØUP - DARKSIDE
-32 | Mishashi Sensei - IN THE CLUB (original phonk music)
+32 | Mishashi Sensei - IN THE CLUB
 33 | Glichery - Sea Of Problems
 34 | TTM,dnvn - Cursed Crown
 35 | MC ORSEN - INCOMING
-36 | Lucha - MAKE IT WORK (Phonk / фонк)
-37 | Lucha - CAN'T FVCK WITH ME (Phonk / фонк)
-38 | THIRST - THIS IS HOW WE DO IT (Magic Phonk Release)
+36 | Lucha - MAKE IT WORK
+37 | Lucha - CAN'T FVCK WITH ME
+38 | THIRST - THIS IS HOW WE DO IT
 39 | KORDHELL x KUTE - DEAD ON ARRIVAL
-40 | MoonDeity - WAKE UP! (Phonk)
-41 | Phonk ※ Sensi Sye - Enchanted (Magic Phonk Release)
-42 | BACK2BACK - STRLGHT (Extended Mix)
+40 | MoonDeity - WAKE UP!
+41 | Sensi Sye - Enchanted
+42 | BACK2BACK - STRLGHT
 43 | Raccy - Level Up
 44 | glwzbll - Untitled #13
-45 | Phonk ※ Antoshka - Tokyo Drift (Magic Free Release)
+45 | Phonk ※ Antoshka - Tokyo Drift
 46 | nightcity. & 7vvch - INSOMNIA
 47 | Razihel - "Castles"
 
 id | name
 -|-
 01 | PRAXDS RXDS
-02 | INTERWORLD - METAMORPHOSIS
-03 | INTERWORLD - METAMORPHOSIS 2
-04 | KORDHELL - MURDER PLOT
-05 | THIRST - THIS IS HOW WE DO IT
 06 | YaaRaGo - Blur
-07 | Grioten x Kyju x scrot! - $neaky Snitch
-08 | $werve x Grioten x DAY$OKEE - MUDD
-09 | Sensi Sye - Enchanted
 10 | KSLV - Disaster
 
-[PHONK II](https://www.youtube.com/watch?v=z3mWu1pwvFU&list=PLvYUTIn8qT9alvmpJ1KbkRgwzVvdoTBBq)
+[PHONK II](https://www.youtube.com/playlist?list=PLvYUTIn8qT9alvmpJ1KbkRgwzVvdoTBBq)
+
+id | name
+-|-
+01 | CYREX, 7vvch - Tempo
+02 | INTERWORLD - METAMORPHOSIS
+03 | INTERWORLD - METAMORPHOSIS 2
+04 | nightcity., Phonk King - NEED 4 SPEED
+05 | Trias, V3CNA, Phonk King - How We Live
+06 | svlient, Phonk King - HADES
+07 | SHADXWBXRN - KNIGHT
+08 | MUPP, Sadfriendd - vendetta!
+09 | Kordhell - MURDER PLOT
+10 | PLAYAMANE, Nateki - MIDNIGHT
+11 | $werve, Grioten, Day$okee - MUDD
+12 | Suave Lee - Phonky Trap
+13 | SHADXWBXRN - DYNAMIC
+14 | Vinsmoker, Marin Hoxha, Phonk King - Bang Bang
+15 | R3YAN, P3ONK, Phonk King - Giga Theme
+16 | MVTRIIIX - Calmness
+17 | Ghostface Playa - Why Not
 
 [PHONK III](https://www.youtube.com/playlist?list=PLvYUTIn8qT9aQxLwxMbiN9Y4ZB6pHidf9)
 
-## PLAYLIST YOUTUBE : /phonk/
-
-id | channel
+id | name
 -|-
-01 | KXLLYXU, LXVIATHXN - MEMORIES [duplicate]
-02 | DVRST - YOUR NAME [duplicate]
-03 | CYPARISS - EMPTY DREAMS (ft. Kingpin Skinny Pimp) [duplicate]
-04 | FORGOTTENAGE - YOUR SMILE
-05 | DVRST - Close Eyes
-06 | Lacrimosa - Snoblack, Phonkomorph _ Besoshka (Magic Phonk Release) [duplicate]
-07 | Whispersinyahead - FIRE (Magic Phonk Release)
-08 | Scriptz - NIGHTFALL [duplicate]
-09 | GENJI JAPAN - Jaegershu
-10 | Hensonn - Flare [Extended]
-11 | Hensonn - Sahara | 1 HOUR | 🥀
-12 | KEAN DYSSO - UWU
-13 | g3ox_em - GigaChad Theme (Phonk House Version) ( from: Top 20 Phonk Songs - Best of Phonk ) [duplicate]
-14 | Isolate.exe - Crystals
-15 | VITAMJN - DISORDER (PROD. NM$)
-16 | GREEN ORXNGE x Send 1 - S.X.N.D. N.X.D.E.S.
-17 | maksy. - Str boyz UFA (Remix)
-18 | CHMCL SØUP - DARKSIDE
-19 | Glichery - Sea Of Problems
-20 | 1nonly - Step Back! ft. SXMPRA (Official Lyric Video)
+01 | KUTE,RAIZHELL - ANUBIS
+02 | ERIK,7vvch - Genjutsu
+03 | KoruSe - MADE IN HEAVEN
+04 | Kordhell - Scopin
+05 | Eternxlkz - SLAY!
+06 | Misfit - LIKE A G6
+07 | Valisbeats - DREAMLAND
+08 | FORGOTTENAGE - End of the World
+09 | IAMTRA$H - INTRO
+10 | KXNVRA - BLOWIN
+11 | Grioten,Kyju,scrot! - $neaky Snitch
+
+## ARTIST
 
 id | channel
 -|-
