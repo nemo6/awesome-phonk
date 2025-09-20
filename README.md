@@ -45,16 +45,13 @@ id | name | from
 41 | Sensi Sye - Enchanted
 42 | BACK2BACK - STRLGHT
 43 | Raccy - Level Up
-44 | glwzbll - Untitled #13
-45 | Phonk ※ Antoshka - Tokyo Drift
-46 | nightcity. & 7vvch - INSOMNIA
-47 | Razihel - "Castles"
-
-id | name
--|-
-01 | PRAXDS RXDS
-06 | YaaRaGo - Blur
-10 | KSLV - Disaster
+44 | Phonk ※ Antoshka - Tokyo Drift
+45 | nightcity. & 7vvch - INSOMNIA
+46 | Razihel - "Castles"
+47 | KSLV - Disaster
+48 | Brian Lowery - Dre$S
+49 | Brian Lowery - Oni
+50 | Brian Lowery - dogcry
 
 [PHONK II](https://www.youtube.com/playlist?list=PLvYUTIn8qT9alvmpJ1KbkRgwzVvdoTBBq)
 
@@ -93,6 +90,7 @@ id | name
 09 | IAMTRA$H - INTRO
 10 | KXNVRA - BLOWIN
 11 | Grioten,Kyju,scrot! - $neaky Snitch
+12 | Phxnkmane - Bigfoot
 
 ## ARTIST
 
@@ -110,20 +108,21 @@ id | channel
 10 | SLOWYMANE
 
 ## NOT IN SPOTIFY | PHONK 0
+
 id | name
 -|-
-1 | YaaRaGo - Blur
-2 | XNXX - LT
-3 | dogcry - Hallowed
-4 | Oni - Hallowed
-5 | Phxnkmane - Bigfoot
+1 | PRAXDS RXDS
+2 | YaaRaGo - Blur
 
 ## from : THE BEST PHONK SONG MIX 2023
+
+https://www.youtube.com/watch?v=iKknLkH4cC0
+
 id | name
 -|-
-1 | XNXX - LT
-2 | dogcry - Hallowed
-3 | Oni - Hallowed
+1 | XNXX - LT ( Brian Lowery - Dre$S )
+2 | dogcry - Hallowed ( Brian Lowery - dogcry )
+3 | Oni - Hallowed ( Brian Lowery - Oni )
 
 ## from : phonk - ara ara
 id | name
