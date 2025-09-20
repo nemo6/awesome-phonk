@@ -1,27 +1,71 @@
-[playlist-youtube](https://www.youtube.com/playlist?list=PLvYUTIn8qT9b-rW_QAUDxaolTU4oqQl4I)
+[PHONK I](https://www.youtube.com/playlist?list=PLvYUTIn8qT9b-rW_QAUDxaolTU4oqQl4I)
+
+id | name | from
+-|-|-
+01 | Dxrk - RAVE (Official Audio)
+02 | KXLLYXU, LXVIATHXN - MEMORIES
+03 | DVRST - YOUR NAME                                                 | from: phonk songs that don't hurt my ears - night drive (tiktok playlist)
+04 | CYPARISS - EMPTY DREAMS (ft. Kingpin Skinny Pimp)                 | from: phonk songs that don't hurt my ears - night drive (tiktok playlist)
+05 | FORGOTTENAGE x SOLIZY - "YOUR SMILE"
+06 | DVRST - Close Eyes
+07 | Dxrk - BONES (Official Audio)                                     |
+08 | Snoblack, Phonkomorph _ Besoshka - Lacrimosa(Magic Phonk Release) | Lacrimosa - Snoblack, Phonkomorph & Besoshka ( tag : eglise,church )
+09 | Hensonn - Flare [Extended]                                        | from: phonk songs I actually like - tiktok playlist
+10 | Hensonn - Sahara | 1 HOUR                                         | from: Phonk Music 2023 Sigma Phonk 2023
+11 | Whispersinyahead - FIRE (Magic Phonk Release)
+12 | Scriptz - NIGHTFALL
+13 | GENJI JAPAN - Jaegershu
+14 | KEAN DYSSO - UWU
+15 | g3ox_em - GigaChad Theme (Phonk House Version)                    | from: Top 20 Phonk Songs - Best of Phonk
+16 | 5admin - silence (extended)
+17 | V21 - Escape
+18 | Sadfriendd x Yury x 5admin - Swerve (revolt)
+19 | Nitro - PHONK PLAYA
+20 | dnvn,PiNKII - Naughty - Naughty
+21 | NOCTRIS - Turbo Injection
+22 | Isolate exe - Crystals
+23 | FORGOTTENAGE - SHOOTERS
+24 | Lucha - CHAOTIC (Phonk / фонк)
+25 | LT - Paradise
+26 | skidz - massacre
+27 | VITAMJN - DISORDER (PROD. NM$)
+28 | 1nonly - Step Back! ft. SXMPRA (Official Lyric Video)
+29 | maksy. - Str boyz UFA (Remix)
+30 | GREEN ORXNGE x Send 1 - S.X.N.D. N.X.D.E.S.
+31 | CHMCL SØUP - DARKSIDE
+32 | Mishashi Sensei - IN THE CLUB (original phonk music)
+33 | Glichery - Sea Of Problems
+34 | TTM,dnvn - Cursed Crown
+35 | MC ORSEN - INCOMING
+36 | Lucha - MAKE IT WORK (Phonk / фонк)
+37 | Lucha - CAN'T FVCK WITH ME (Phonk / фонк)
+38 | THIRST - THIS IS HOW WE DO IT (Magic Phonk Release)
+39 | KORDHELL x KUTE - DEAD ON ARRIVAL
+40 | MoonDeity - WAKE UP! (Phonk)
+41 | Phonk ※ Sensi Sye - Enchanted (Magic Phonk Release)
+42 | BACK2BACK - STRLGHT (Extended Mix)
+43 | Raccy - Level Up
+44 | glwzbll - Untitled #13
+45 | Phonk ※ Antoshka - Tokyo Drift (Magic Free Release)
+46 | nightcity. & 7vvch - INSOMNIA
+47 | Razihel - "Castles"
 
 id | name
 -|-
-1 | PRAXDS RXDS
-2 | KXLLYXU, LXVIATHXN - MEMORIES
-3 | DVRST - YOUR NAME ( from: phonk songs that don't hurt my ears - night drive (tiktok playlist) )
-4 | CYPARISS - EMPTY DREAMS (ft. Kingpin Skinny Pimp) ( from: phonk songs that don't hurt my ears - night drive (tiktok playlist) )
-5 | FORGOTTENAGE x SOLIZY "YOUR SMILE"
-6 | Scriptz - NIGHTFALL
-7 | g3ox_em - GigaChad Theme (Phonk House Version) ( from: Top 20 Phonk Songs - Best of Phonk )
-8 | Hensonn - Flare  ( from: phonk songs I actually like - tiktok playlist )
-9 | Hensonn - Sahara ( from: Phonk Music 2023 Sigma Phonk 2023 )
-10 | INTERWORLD - METAMORPHOSIS
-11 | INTERWORLD - METAMORPHOSIS 2
-12 | KORDHELL - MURDER PLOT
-13 | dnvn, PiNKII - Naughty
-14 | Lacrimosa - Snoblack, Phonkomorph & Besoshka ( tag : eglise,church )
-15 | THIRST - THIS IS HOW WE DO IT
-16 | YaaRaGo - Blur
-17 | Grioten x Kyju x scrot! - $neaky Snitch
-18 | $werve x Grioten x DAY$OKEE - MUDD
-19 | Sensi Sye - Enchanted
-20 | KSLV - Disaster
+01 | PRAXDS RXDS
+02 | INTERWORLD - METAMORPHOSIS
+03 | INTERWORLD - METAMORPHOSIS 2
+04 | KORDHELL - MURDER PLOT
+05 | THIRST - THIS IS HOW WE DO IT
+06 | YaaRaGo - Blur
+07 | Grioten x Kyju x scrot! - $neaky Snitch
+08 | $werve x Grioten x DAY$OKEE - MUDD
+09 | Sensi Sye - Enchanted
+10 | KSLV - Disaster
+
+[PHONK II](https://www.youtube.com/watch?v=z3mWu1pwvFU&list=PLvYUTIn8qT9alvmpJ1KbkRgwzVvdoTBBq)
+
+[PHONK III](https://www.youtube.com/playlist?list=PLvYUTIn8qT9aQxLwxMbiN9Y4ZB6pHidf9)
 
 ## PLAYLIST YOUTUBE : /phonk/
 
@@ -60,6 +104,15 @@ id | channel
 8  | KORDHELL
 9  | STXRBXTH
 10 | SLOWYMANE
+
+## NOT IN SPOTIFY | PHONK 0
+id | name
+-|-
+1 | YaaRaGo - Blur
+2 | XNXX - LT
+3 | dogcry - Hallowed
+4 | Oni - Hallowed
+5 | Phxnkmane - Bigfoot
 
 ## from : THE BEST PHONK SONG MIX 2023
 id | name
@@ -114,12 +167,3 @@ id | name
 3 | nightcity. - NEED 4 SPEED
 4 | Lucha - MAKE IT WORK
 5 | R3YAN _ P3ONK - Giga Theme (Cover)
-
-## NOT IN SPOTIFY
-id | name
--|-
-1 | YaaRaGo - Blur
-2 | XNXX - LT
-3 | dogcry - Hallowed
-4 | Oni - Hallowed
-5 | Phxnkmane - Bigfoot
