@@ -11,7 +11,7 @@ id | name | from
 05 | FORGOTTENAGE x SOLIZY - "YOUR SMILE"
 06 | DVRST - Close Eyes
 07 | Dxrk - BONES (Official Audio)                                     |
-08 | Snoblack, Phonkomorph _ Besoshka - Lacrimosa | Lacrimosa - Snoblack, Phonkomorph & Besoshka | tag : eglise,church
+08 | Snoblack, Phonkomorph & Besoshka - Lacrimosa | tag : eglise,church
 09 | Hensonn - Flare                                                   | from: phonk songs I actually like - tiktok playlist
 10 | Hensonn - Sahara                                                  | from: Phonk Music 2023 Sigma Phonk 2023
 11 | Whispersinyahead - FIRE
