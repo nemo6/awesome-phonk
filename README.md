@@ -51,10 +51,10 @@ id | name | from
 45 | nightcity. & 7vvch - INSOMNIA
 46 | Razihel - Castles
 47 | KSLV - Disaster
-48 | Ghostface Playa - Why Not
-49 | Brian Lowery - Dre$S
-50 | Brian Lowery - Oni
-51 | Brian Lowery - dogcry
+48 | Brian Lowery - Dre$S
+49 | Brian Lowery - Oni
+50 | Brian Lowery - DogCry
+51 | Ghostface Playa - Why Not
 52 | RENESIS - Melody
 
 ## PHONK II
